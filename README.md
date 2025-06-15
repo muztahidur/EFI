@@ -1,2 +1,2 @@
 # EFI
-Mackintosh
+For Mackintosh
